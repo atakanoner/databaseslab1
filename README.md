@@ -2,6 +2,6 @@
 
 #ER Diagram
 
-![ER](SScreen%20Shot%202020-12-27%20at%205.33.13%20PM.png?raw=true)
+![ER](SScreen%20Shot%202020-12-27%20at%205.33.13%20PM.png)
 
 
