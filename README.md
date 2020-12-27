@@ -6,4 +6,8 @@
 
 ![ER](Screen%20Shot%202020-12-27%20at%205.33.13%20PM.png)
 
+# Database Tables in Pg Admin 4
+
+![Database Schema](Screen%20Shot%202020-12-27%20at%206.02.15%20PM.png)
+
 
